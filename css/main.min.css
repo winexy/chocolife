@@ -784,7 +784,8 @@ a {
     font-size: 15px;
     color: #444444; }
   .offers__text {
-    font-size: 14px; }
+    font-size: 14px;
+    color: #333; }
   .offers__discount {
     position: absolute;
     background: url("../img/deals.png") no-repeat 0 -574px;
